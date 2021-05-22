@@ -1,0 +1,100 @@
+Call for papers
+
+The 2021 International Symposium on Privacy, Security and Smart Cities (Privacy2021)
+26th - 28th Aug 2021, Newcastle upon Tyne, UK
+
+https://aiconferences.github.io/Privacy2021/
+
+****** IMPORTANT DATES (Updated) ******
+Abstract submission: 	Sunday, 18th July 2021
+Paper submission: 	Sunday, 25th July 2021
+Notification:  			Sunday, 8th Aug 2021
+Camera-ready: 			Sunday, 21st Aug 2021
+Main Conference: 		26-28 Aug 2021
+
+----------------------------------------------------------------------
+
+REMOTE PARTICIPATION: Due to global COVID, we have decided that virtual participation will be possible 
+even if the conference will (also) be held physically.
+
+----------------------------------------------------------------------
+
+****** ABOUT Privacy 2021 ******
+
+We are pleased to invite you to submit papers for The 2021 International Symposium on Privacy, Security 
+and Smart Cities (Privacy2021), which will take place in Newcastle upon Tyne, UK on 26 - 28 Aug, 2021.
+
+----------------------------------------------------------------------
+
+****** OBJECTIVES and SCOPE ******
+
+Recently digital cities have been emerging as a technology reality that will come to dominate the usual 
+life of people, in either developed or developing countries. Particularly, with big data issues from 
+smart cities, privacy and security has been a widely concerned matter due to its relevance and sensitivity 
+extensively present in cybersecurity, healthcare, medical service, e-commercial, e-governance, mobile banking, 
+e-finance, and so on. 
+These new topics rises up with the era of smart cities and mostly associate with public sectors, which are 
+vital to the modern life of people. This conference will highlight recent research advances in these emerging 
+challenges, and aims to capture recent developments in Smart Cities technologies, particularly, with a focus 
+on new technologies such as biometrics, block chains, data encryption, data mining, machine learning, deep 
+learning, cloud security, mobile security, etc. The goal of this symposium is to summarize the recent advances 
+in addressing the challenges on Big Data Privacy and Security in Smart Cities.
+
+
+The topics of the conference include, but are not limited to:
+
+- Big Data in Smart Cities
+- AI Applications in Smart Cities
+- Privacy and Security
+- Cybersecurity Issues
+- Digital Economy
+- Digital Health
+- Future Medical Services in Smart Cities
+- Health and Wellbeing Data Analysis
+- e-Commercial and Digitalized Businesses
+- Democracy and e-Goverment
+- Mobile and Internet Banking
+- e-Finance
+- Transport in Smart Cities
+- Intelligent Vehicles and VANET
+- Driverless Vehicles
+- City Environment and Climate Change 
+- Resources and Recycles
+- Any topics related to Privacy, Security and Smart Cities
+
+
+****** SUBMISSION OF CONTRIBUTIONS ******
+We solicit the following types of papers:
+
+Regular papers, with original research contributions;
+Short papers, with original work in progress or with proposals of new ideas and emerging challenges;
+Survey papers, on summarzing the state of the art research and advances.
+
+Each paper is expected to present a novel research study, a comparative study, or a survey of the literature. 
+
+All submissions should be done via EasyChair: 
+
+https://easychair.org/conferences/?conf=privacy2021 
+
+Original artwork and a signed copyright release form will be required for all accepted papers.
+
+For author instructions, please visit:
+
+https://www.springer.com/gp/authors-editors/book-authors-editors/your-publication-journey/manuscript-preparation#c3324
+
+Please feel free to contact us via email (privacy2021@easychair.org) regarding your papers.
+
+****** Organization ******
+
+*** Conference Chairs ***
+Prof Ahmed Bouridane (Northumbria University, UK)
+
+*** Programme Chairs ***
+Dr Richard Jiang (Lancaster University, UK)
+
+*** Advisory Committee ***
+Prof Chang-tsun Li (Deakin University, UK)
+Prof Danny Crookes (Queen's University Belfast, UK)
+Prof Said Boussakta (Newcastle University, UK)
+Prof Eran Edirisinghe (Loughborough University, UK)
+Prof Feng Hao (Warwick University, UK)
