@@ -8,9 +8,9 @@ https://aiconferences.github.io/Privacy2021/
 ****** IMPORTANT DATES (Updated) ******
 Abstract submission: 	Sunday, 18th July 2021
 Paper submission: 	Sunday, 25th July 2021
-Notification:  			Sunday, 8th Aug 2021
-Camera-ready: 			Sunday, 21st Aug 2021
-Main Conference: 		26-28 Aug 2021
+Notification: 			Sunday, 8th Aug 2021
+Camera-ready:			Sunday, 21st Aug 2021
+Main Conference:		26-28 Aug 2021
 
 ----------------------------------------------------------------------
 
@@ -54,7 +54,11 @@ The topics of the conference include, but are not limited to:
 - e-Commercial and Digitalized Businesses
 - Democracy and e-Goverment
 - Mobile and Internet Banking
-- e-Finance
+- e-Finance and Bitcoins
+- Blockchains
+- Internet of Things
+- Artificial Intelligence of Things
+- Edges and Clouds
 - Transport in Smart Cities
 - Intelligent Vehicles and VANET
 - Driverless Vehicles
