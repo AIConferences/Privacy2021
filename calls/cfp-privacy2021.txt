@@ -59,6 +59,8 @@ The topics of the conference include, but are not limited to:
 - Internet of Things
 - Artificial Intelligence of Things
 - Edges and Clouds
+- Data Hiding and Watermarking
+- Data Encryption and Hashing
 - Transport in Smart Cities
 - Intelligent Vehicles and VANET
 - Driverless Vehicles
