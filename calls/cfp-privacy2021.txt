@@ -6,10 +6,11 @@ The 2021 International Symposium on Privacy, Security and Smart Cities (Privacy2
 https://aiconferences.github.io/Privacy2021/
 
 ****** IMPORTANT DATES (Updated) ******
-Paper submission: Sunday, 25th Aug 2021
-Notification: Sunday, 31st Aug 2021
-Camera-ready: Sunday, 06th Sept 2021
-Main Conference: 22-24 Sept 2021
+Abstract submission: 30th Nov 2021
+Paper submission: 30th Nov 2021
+Notification: 10th Dec 2021
+Main Conference(Slides): 16-18 Dec 2021
+Camera-ready: 21st Dec 2021
 
 ----------------------------------------------------------------------
 
