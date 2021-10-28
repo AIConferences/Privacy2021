@@ -43,30 +43,40 @@ in addressing the challenges on Big Data Privacy and Security in Smart Cities.
 
 The topics of the conference include, but are not limited to:
 
-- Big Data in Smart Cities
-- AI Applications in Smart Cities
-- Privacy and Security
-- Cybersecurity Issues
-- Digital Economy
-- Digital Health
-- Future Medical Services in Smart Cities
-- Health and Wellbeing Data Analysis
-- e-Commercial and Digitalized Businesses
-- Democracy and e-Goverment
-- Mobile and Internet Banking
-- e-Finance and Bitcoins
-- Blockchains
-- Internet of Things
-- Artificial Intelligence of Things
+The topics of the conference include, but are not limited to:
+
+Privacy, Security and Smart Cities:
+
+e-Infrastructure for Smart Cities:
+- Managing Big Data (including Edge and cloud computing)
+- Security of Big Data (cybersecurity, encryption, digital watermarking)
+- Privacy and security
+- AI applications (and AIoT)
 - Edges and Clouds
 - Data Hiding and Watermarking
 - Data Encryption and Hashing
-- Transport in Smart Cities
-- Intelligent Vehicles and VANET
-- Driverless Vehicles
-- City Environment and Climate Change 
-- Resources and Recycles
-- Any topics related to Privacy, Security and Smart Cities
+
+e-Services in Smart Cities:
+- e-Health (health and well-being data analysis, service delivery)
+- e-Medical Services
+- Transport (driverless vehicles, intelligent vehicles and VANET)
+
+e-City Management (or e-City Governance):
+- e-government (including state-citizen interaction)
+- e-democracy
+- e-Finance, e-Banking, bitcoins, e-Commerce
+- Environment (Resources and recycling, climate change monitoring and planning)
+- Energy Optimization
+
+Other Topics related to Smart Cities:
+- New 5G/6G Appications
+- Quantum Computing
+- Post-Quantum Cryptography
+- City Surveillance
+- Forensic Applications
+- Smart Home
+- Smart Homecare Services
+- etc.
 
 
 ****** SUBMISSION OF CONTRIBUTIONS ******
